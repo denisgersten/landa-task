@@ -1,0 +1,17 @@
+{
+    "users": [
+        {
+            "username": "denis",
+            "portfolio": [
+                {
+                    "fundId": 1,
+                    "amount": 25
+                },
+                {
+                    "fundId": "3",
+                    "amount": 1
+                }
+            ]
+        }
+    ]
+}

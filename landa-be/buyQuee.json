@@ -1,0 +1,25 @@
+{
+    "buy": [
+
+    ],
+    "sell": [
+        {
+            "fundId": 1,
+            "amountToSell": 1000,
+            "sharePrice": "5",
+            "username": "admin"
+        },
+        {
+            "fundId": 2,
+            "amountToSell": 1000,
+            "sharePrice": "5",
+            "username": "admin"
+        },
+        {
+            "fundId": 3,
+            "amountToSell": 1000,
+            "sharePrice": "10",
+            "username": "admin"
+        }
+    ]
+}
